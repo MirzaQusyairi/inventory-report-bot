@@ -2,8 +2,8 @@
 
 Laporan inventaris, pencatatan inventaris dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
 
-<img src="https://user-images.githubusercontent.com" width="45%"> 
-<img src="https://user-images.githubusercontent.com" width="45%">
+<img src="https://github.com/MirzaQusyairi/inventory-report-bot/blob/main/documentation/telegram.png?raw=true" width="45%"> 
+<img src="https://github.com/MirzaQusyairi/inventory-report-bot/blob/main/documentation/spreadsheet.png?raw=true" width="45%">
 
 ## Buat Bot telegram
 1. Buka telegram search @BotFather
